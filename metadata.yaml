@@ -1,0 +1,34 @@
+_repo: The-Commercial-Restraints-of-Ireland_38841
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hely-Hutchinson, John
+    alias: Hutchinson, John Hely
+    birthdate: 1724
+    deathdate: 1794
+    gutenberg_agent_id: '39676'
+    url: http://www.gutenberg.org/2009/agents/39676
+  editor:
+    agent_name: Carroll, W. G.
+    gutenberg_agent_id: '39677'
+    url: http://www.gutenberg.org/2009/agents/39677
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2012-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HC'
+- !lcsh 'Ireland -- Commerce -- Early works to 1800'
+- !lcsh 'Great Britain -- Commercial policy'
+- !lcsh 'Ireland -- Economic conditions -- Early works to 1800'
+title: The Commercial Restraints of Ireland
+url: http://www.gutenberg.org/ebooks/38841
